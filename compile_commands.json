@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest",
+  "command": "/usr/bin/cc  -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/Unity/src -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/. -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/..  -Wall -Werror -g -o CMakeFiles/assignment-autotest.dir/test/assignment1/Test_hello.c.o -c /home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/test/assignment1/Test_hello.c",
+  "file": "/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/test/assignment1/Test_hello.c"
+},
+{
+  "directory": "/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest",
+  "command": "/usr/bin/cc  -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/Unity/src -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/. -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/..  -Wall -Werror -g -o CMakeFiles/assignment-autotest.dir/test/assignment1/Test_assignment_validate.c.o -c /home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/test/assignment1/Test_assignment_validate.c",
+  "file": "/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/test/assignment1/Test_assignment_validate.c"
+},
+{
+  "directory": "/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest",
+  "command": "/usr/bin/cc  -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/Unity/src -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/. -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/..  -Wall -Werror -g -o CMakeFiles/assignment-autotest.dir/__/student-test/assignment1/Test_validate_username.c.o -c /home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/student-test/assignment1/Test_validate_username.c",
+  "file": "/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/student-test/assignment1/Test_validate_username.c"
+},
+{
+  "directory": "/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest",
+  "command": "/usr/bin/cc  -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/Unity/src -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/. -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/..  -Wall -Werror -g -o CMakeFiles/assignment-autotest.dir/test/assignment1/Test_hello_Runner.c.o -c /home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/test/assignment1/Test_hello_Runner.c",
+  "file": "/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/test/assignment1/Test_hello_Runner.c"
+},
+{
+  "directory": "/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest",
+  "command": "/usr/bin/cc  -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/Unity/src -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/. -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/..  -Wall -Werror -g -o CMakeFiles/assignment-autotest.dir/test/assignment1/Test_assignment_validate_Runner.c.o -c /home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/test/assignment1/Test_assignment_validate_Runner.c",
+  "file": "/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/test/assignment1/Test_assignment_validate_Runner.c"
+},
+{
+  "directory": "/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest",
+  "command": "/usr/bin/cc  -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/Unity/src -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/. -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/..  -Wall -Werror -g -o CMakeFiles/assignment-autotest.dir/__/student-test/assignment1/Test_validate_username_Runner.c.o -c /home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/student-test/assignment1/Test_validate_username_Runner.c",
+  "file": "/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/student-test/assignment1/Test_validate_username_Runner.c"
+},
+{
+  "directory": "/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest",
+  "command": "/usr/bin/cc  -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/Unity/src -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/. -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/..  -Wall -Werror -g -o CMakeFiles/assignment-autotest.dir/__/examples/autotest-validate/autotest-validate.c.o -c /home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/examples/autotest-validate/autotest-validate.c",
+  "file": "/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/examples/autotest-validate/autotest-validate.c"
+},
+{
+  "directory": "/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest",
+  "command": "/usr/bin/cc  -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/Unity/src -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/. -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/..  -Wall -Werror -g -o CMakeFiles/assignment-autotest.dir/test/unity_runner.c.o -c /home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/test/unity_runner.c",
+  "file": "/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/test/unity_runner.c"
+},
+{
+  "directory": "/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/Unity/src",
+  "command": "/usr/bin/cc  -I/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/Unity/src  -o CMakeFiles/unity.dir/unity.c.o -c /home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/Unity/src/unity.c",
+  "file": "/home/hanes/coursera/buildroot/assignment-1-HanesSciarrone/assignment-autotest/Unity/src/unity.c"
+}
+]
